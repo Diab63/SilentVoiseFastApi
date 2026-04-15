@@ -5,3 +5,4 @@ opencv-python-headless==4.10.0.84
 python-multipart==0.0.20
 joblib==1.4.2
 mediapipe==0.10.30
+xgboost==2.1.1
