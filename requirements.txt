@@ -1,1 +1,7 @@
-fastapi[all]
+fastapi
+uvicorn
+numpy
+opencv-python
+python-multipart
+joblib
+mediapipe==0.10.14
